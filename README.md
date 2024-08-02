@@ -1,3 +1,7 @@
 # cookbook
 Repository of recipes.
-Idk
+new_recipe
+
+
+Table of contents:
+1. guacamole 
