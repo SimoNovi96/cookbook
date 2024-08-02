@@ -5,4 +5,5 @@ Ingredients:
 * lime
 
 Instructions:
-Mix everything together
+Mix everything 
+Mash it up with a fork
